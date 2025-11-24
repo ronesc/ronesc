@@ -2,7 +2,7 @@
 **`Analista de Dados`**
 
 ![alt text](top.svg)
- #🇧🇷
+ # 🇧🇷
 # 👋 Olá! Eu sou o Rones Carrijo
 
 Apaixonado por tecnologia desde que me entendo por gente, amante da natureza, curioso por culturas diferentes e sempre pronto para a próxima viagem. Depois de muitos anos trabalhando com atendimento e suporte técnico, descobri que minha verdadeira motivação estava em entender por que as coisas acontecem — e isso me levou direto para o mundo dos dados.
